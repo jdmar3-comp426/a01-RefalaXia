@@ -36,6 +36,18 @@
     font-family: 'Courier New', Courier, monospace;
   }
 
+  p.index {
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  p.Education {
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  p.contact {
+    font-family:'Times New Roman', Times, serif;
+  }
+
   div {
     height: 620px;
     width: 50%;
